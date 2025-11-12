@@ -167,4 +167,8 @@ This mod is designed for:
 
 ## Support
 
-For issues, questions, or suggestions, please visit the mod's GitHub repository.
+For issues, questions, or suggestions, please visit the mod's GitHub repository at https://github.com/superturtlee/MaxVillage
+
+## Credits
+
+This mod was developed to make structure exploration in Minecraft more customizable and accessible to all players.
