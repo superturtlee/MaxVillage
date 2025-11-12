@@ -1,0 +1,119 @@
+# MaxVillage Configuration File
+# This file will be automatically generated at config/maxvillage-common.toml
+# after running Minecraft with the mod for the first time.
+
+# Configure natural structure generation
+# Spacing: Average distance between structures (in chunks)
+# Separation: Minimum distance between structures (in chunks)
+
+[structures]
+
+    # Village Generation Settings
+    # Spacing: Average distance between villages (in chunks)
+    # Separation: Minimum distance between villages (in chunks)
+    [structures.village]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Desert Pyramid Generation Settings
+    [structures.desert_pyramid]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Jungle Temple Generation Settings
+    [structures.jungle_temple]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Swamp Hut Generation Settings
+    [structures.swamp_hut]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Igloo Generation Settings
+    [structures.igloo]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Ocean Monument Generation Settings
+    [structures.ocean_monument]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 5
+        # Range: 1 ~ 1000
+        separation = 5
+
+    # Shipwreck Generation Settings
+    [structures.shipwreck]
+        # Default: 24
+        # Range: 1 ~ 1000
+        spacing = 24
+        # Default: 4
+        # Range: 1 ~ 1000
+        separation = 4
+
+    # Ocean Ruins Generation Settings
+    [structures.ocean_ruins]
+        # Default: 20
+        # Range: 1 ~ 1000
+        spacing = 20
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Pillager Outpost Generation Settings
+    [structures.pillager_outpost]
+        # Default: 32
+        # Range: 1 ~ 1000
+        spacing = 32
+        # Default: 8
+        # Range: 1 ~ 1000
+        separation = 8
+
+    # Woodland Mansion Generation Settings
+    [structures.mansion]
+        # Default: 80
+        # Range: 1 ~ 1000
+        spacing = 80
+        # Default: 20
+        # Range: 1 ~ 1000
+        separation = 20
+
+    # Nether Fortress Generation Settings
+    [structures.nether_fortress]
+        # Default: 27
+        # Range: 1 ~ 1000
+        spacing = 27
+        # Default: 4
+        # Range: 1 ~ 1000
+        separation = 4
+
+    # End City Generation Settings
+    [structures.end_city]
+        # Default: 20
+        # Range: 1 ~ 1000
+        spacing = 20
+        # Default: 11
+        # Range: 1 ~ 1000
+        separation = 11
